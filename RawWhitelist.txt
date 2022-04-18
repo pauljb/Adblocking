@@ -3,6 +3,7 @@
 
 # This was added at the request of the developer of Diversion
 
+aan.amazon.com
 steamcdn-a.akamaihd.net
 media.steampowered.com	
 media4.steampowered.com
