@@ -1010,4 +1010,5 @@ zomato.com
 zoom.us
 best.aliexpress.com
 feedly.com
-aax-us-east-retail-direct.amazon.com
+aax-us-east-retail-direct.amazon.com # Breaks amazon app
+player.stats.live-video.net  # Breaks amazon app
